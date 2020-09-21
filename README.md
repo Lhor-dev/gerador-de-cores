@@ -18,7 +18,7 @@ Agora é só copiar o valor de sua cor e usar!
 Baixe os arquivos compactados em .zip diretamente do repositório.
 
 **Por linha de comando.**
-Abra o Git Bash e cole: `git clone https://github.com/lucas-andre/geradpr-de-cores`
+Abra o Git Bash e cole: `git clone https://github.com/lucas-andre/gerador-de-cores`
 
 
 ## 📃 Licença 
